@@ -3,6 +3,8 @@ static/pmimages/*.jpg
 static/pmimages/*.jpeg
 static/pmimages/*.gif
 static/pmimages/*.png
+exclude-list.txt 
+rsync.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
